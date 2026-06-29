@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://grocery-shop-krb.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
 
@@ -88,8 +88,6 @@ If it runs in the browser:
 - Handling mobile navigation with JavaScript
 - Using third-party animation libraries
 - Improving UI responsiveness across breakpoints
-
-
 
 ## Notes
 
